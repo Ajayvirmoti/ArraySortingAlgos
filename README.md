@@ -7,110 +7,20 @@
 - [Heap Sort](#Heap-Sort)
 - [Counting Sort](#Counting-Sort)
 
-
-
-
-
-
-
-
-
-
-e
-e
-e
-e
-e
-e
-e
-e
-e
-e
-e
-e
-e
-e
-e
-e
-e
-e
-e
-e
-e
-e
-e
-
-e
-e
-e
-e
-e
-e
-e
-e
-e
-
-e
-e
-e
-e
-e
-e
-
-e
-e
-e
-e
-e
-
-
-
-e
-e
-e
-e
-
-ee
-
-
-
-ee
-
-eeee
-
-e
-
-e
-
-e
-
-e
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-e
 ## Selection Sort
-- hello
+- 
 ## Bubble Sort
+-
+## Insertion Sort
+-
+## Merge Sort
+-
+## Quick Sort
+-
+## Heap Sort
+-
+## Counting Sort
+-
+
 
 
