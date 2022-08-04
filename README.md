@@ -1,4 +1,6 @@
-# ArraySortingAlgorithms #
+ArraySortingAlgorithms 
+---------------------------
+---------------------------
 >Index 
 - [Selection Sort](#Selection-Sort)
 - [Bubble Sort](#Bubble-Sort)
